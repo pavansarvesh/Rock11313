@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rock
+- 👋 Hi, I’m @Pavan-Sarvesh
 - 👀 I’m interested in Web Developement, Blockchains & App Designing
 - 🌱 I’m currently learning Python
 <!--- 
