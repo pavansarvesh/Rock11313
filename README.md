@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rock11313
+- 👋 Hi, I’m @Rock
 - 👀 I’m interested in Web Developement, Blockchains & App Designing
 - 🌱 I’m currently learning Python
 <!--- 
